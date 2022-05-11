@@ -1,9 +1,13 @@
 # Homework_3_Variables
 Д/з: Variables
+
+<a href="https://gist.github.com/SlavikArt/0296289188a0eb5e979ef677b9c8f5c7">Gist - страница со всеми кодами проектов</a>
+
 * [Distance_Speed_Time](Distance_Speed_Time)
 * [Tons_To_String](Tons_To_String)
 * [Seconds_To_String](Seconds_To_String)
 * [How_Much_Is_The_Call_Time](How_Much_Is_The_Call_Time)
+
 <p align="center">
   <h2>Distance speed time</h2>
   <p>Определить время.</p>
